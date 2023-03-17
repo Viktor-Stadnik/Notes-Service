@@ -13,3 +13,4 @@ ____
 1. Fork this project
 2. Install MongoDB and create a collection
 3. Write your credentials in the `resources/application.properties` file
+4. You can use the endpoint `/inject` to add the test data in DB
