@@ -1,0 +1,11 @@
+# default ignored files
+/shelf/
+/workspace.xml
+# editor-based http client requests
+/httprequests/
+# datasource local storage ignored files
+/datasources/
+/datasources.local.xml
+.idea/*
+*.iml
+target/*
